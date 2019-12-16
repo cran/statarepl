@@ -1,0 +1,15 @@
+2ebda316b0d89e4db24824ff0a59407e *DESCRIPTION
+03cc0be9c2a7d60a0573f5afa5bdb490 *LICENSE
+fc990d5986932d37519dd138a022395a *NAMESPACE
+ebd88f10c63cfc5ca8fd36909f552a38 *R/R6.R
+9a561dd995a207a7172b7d85ba1c65a6 *R/addin.R
+499de8e3fe02ade398d895cd423d9ce1 *R/funs.R
+c5e8494b3879bcaef610fa3c3fec68c5 *R/knitr.R
+8b09319004ff0431e969d8bf7b5719b8 *R/statarepl-package.R
+eb20117c30dd43601dbead438da7047b *R/zzz.R
+bc2e536e97e3802c3208596219d7ae41 *inst/rstudio/addins.dcf
+ad3d6f3d6c1e1fb9ddec071e71ce692a *man/StataSession.Rd
+b4955486d768a60bfa9347e61160be67 *man/find_stata.Rd
+72d73b8493655ce8c53c765c665ea23c *man/set_stata_engine.Rd
+92f340524212cb76e7d6714fdf78dcd6 *man/stata_repl.Rd
+c4d6447b8de7658f6dcdb4ca915cb368 *man/statarepl.Rd

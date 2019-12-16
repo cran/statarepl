@@ -1,0 +1,4 @@
+Name: Stata Chunk
+Description: Add a Stata Rmd Chunk
+Binding: rmd
+Interactive: false
